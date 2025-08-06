@@ -116,7 +116,7 @@
   flex-wrap: wrap;
   margin: 0 auto;
   max-width: 760px;
-  justify-content: space-around;
+  justify-content: center;
   gap: 40px;
   list-style-type: none;
   padding-left: 0;
